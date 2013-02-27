@@ -1,0 +1,14 @@
+{
+    "name": "root/new_project",
+    "description": "Novo projeto",
+    "require": {
+        "phpunit/phpunit": "3.7.1"
+    },
+    "authors": [
+        {
+            "name": "Leonir Alves",
+            "email": "leonir.ad@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
